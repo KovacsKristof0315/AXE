@@ -38,7 +38,6 @@ Complete example
 function void main ()
 {
 	let x = 20
-
 	write ("x" + x + "x")
 	for (let x = 10 => 5, 2)
 	{
